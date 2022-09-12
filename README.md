@@ -2,14 +2,17 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome!&desc=I'm%20Yoon%20Johyun&fontSize=60&rotate=14&fontAlignY=27&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 <div align=left>
+
+
 <!--소개-->
+
 ## Introduction :raised_hands:
-Hi, I am trying to become a developer😎
+ Hi, I am trying to become a developer😎
 <br/><br/>
  
  
  <!--기술스택-->
-  ## Skill :four_leaf_clover:
+  ## Skill :star:
   <!--프론트-->
 
    <br/>
