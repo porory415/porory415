@@ -7,7 +7,7 @@
 <!--소개-->
 
 ## Introduction :raised_hands:
- Hi, I am trying to become a developer😎
+ 
 <br/><br/>
  
  
