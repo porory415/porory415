@@ -7,16 +7,24 @@
 <!--소개-->
 
 ## Introduction :raised_hands:
+ 현재 SAP ERP developer & operator 로 재직중입니다. SD 모듈을 담당하고 있습니다. 😃
  
-<br/><br/>
- 
+ SAP는 물론 그 외의 기술스택을 쌓으며 넓은 영역을 공부하는 것을 좋아하는 개발자입니다.👩‍💻
  
  <!--기술스택-->
   ## Skill :star:
-  <!--프론트-->
-
-   <br/>
-  <!--백-->
+  #### <프론트/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+ 
+ 
+  <br/>
+ 
+  #### <백/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=SAP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ABAP-339933?style=flat&logo=SAP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 
   <br/>
   <!--언어 및 툴-->
@@ -26,12 +34,8 @@
  <!--공부중 -->
  
   ## Studying :pencil2: 
- <!--img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/-->
-  <!--백-->
-  <br/>
-  <!--img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/->
- <!--언어 및 툴 --> <br/>
-  <!--img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/-->
+ 
+  studying in <img src="https://img.shields.io/badge/42-000000?style=flat&logo=42&logoColor=white"/>
  <br/>
  <br/>
   
