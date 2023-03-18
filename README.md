@@ -13,6 +13,7 @@
  
  <!--기술스택-->
   ## Skill :star:
+ 
   #### 📌 Frontend
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
@@ -22,10 +23,10 @@
  
   #### 📌 Backend
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=SAP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ABAP-339933?style=flat&logo=SAP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ABAP-C8B9CC?style=flat&logo=SAP&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MYSQL-C8B9CC?style=flat&logo=MYSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MYSQL-005C84?style=flat&logo=MYSQL&logoColor=white"/>
 
   <br/>
   <!--언어 및 툴-->
