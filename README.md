@@ -7,9 +7,9 @@
 <!--소개-->
 
 ## Introduction :raised_hands:
- 안녕하세요, 현재 SAP ERP developer & operator 로 재직중이고 SD 모듈을 담당하고 있습니다. 😃
+ 안녕하세요, 현재 SAP ERP developer & operator 로 재직중이고 SD와 수출 모듈을 담당하고 있습니다. 😃
 
- SAP는 물론 그 외의 기술스택을 쌓으며 넓은 영역을 공부하는 것을 좋아하는 개발자 윤조현입니다.👩‍💻
+ SAP 기술스택을 쌓으며 다른 개발 영역을 공부하는 것을 좋아하는 개발자 윤조현입니다.👩‍💻
  
  <!--기술스택-->
   ## Skill :star:
@@ -35,9 +35,9 @@
   
  <!--공부중 -->
  
-  ## Studying :pencil2: 
+  ## Study :pencil2: 
  
-  studying in <img src="https://img.shields.io/badge/42-000000?style=flat&logo=42&logoColor=white"/>
+  studied at <img src="https://img.shields.io/badge/42-000000?style=flat&logo=42&logoColor=white"/>
  <br/>
  <br/>
   
